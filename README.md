@@ -25,7 +25,7 @@ If so, the current frame will be set to the next one, and the duration will be r
 - #### The stop statement
 The programm will look for the `do_kill` parameter **before changing the frame**.
 
-If the `last_frame` is reached (The image of the list if not specified), the animation will stop
+If the `last_frame` is reached (The last image of the list if not specified), the animation will stop
 and the sprite will be removed from its groups.
 
 
