@@ -48,8 +48,8 @@ And a bunch of optional parameters :
 | Optional argument | Description                                                                             |
 | --- |-----------------------------------------------------------------------------------------|
 | `start_frame` | The index of the first frame that will be displayed                                     |
-| `first_frame` | The index of the first frame on which the animation will loop [^1]                      |
-| `last_frame` | The index of the last frame on which the animation will loop [^1]                       |
+| `first_frame` | The index of the first frame of the loop to be displayed [^1]                           |
+| `last_frame` | The index of the last frame of the loop that will be displayed [^1]                        |
 | `lock_at` | The index of the frame on which the animation will stop at                              |
 | `do_kill` | A boolean that indicates whether the sprite will be removed from its groups or not [^2] |
 | `delay_before_kill` | The delay before the sprite is removed from its groups [^2]                             |
