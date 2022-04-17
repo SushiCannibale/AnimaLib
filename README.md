@@ -55,9 +55,9 @@ And a bunch of optional parameters :
 | `delay_before_kill` | The delay before the sprite is removed from its groups [^2]                             |
 
 
-[^1]: Considering the animation **will** loop.
+[^1]: Considering the animation <ins>**will**</ins> loop.
 
-[^2]: To be efficient, the `lock_at` parameter **has to be set**.
+[^2]: To be efficient, the `lock_at` parameter <ins>**has to be set**</ins>.
 
 ---
 
