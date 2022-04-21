@@ -7,8 +7,8 @@ The `AnimaLib` is a library for animating `Sprites` of the [PyGame](https://www.
 ## Installation
 
 Simply run 
-`pip install anima-lib`
-to download and install the library from [PyPI](https://pypi.org/project/anima-lib/).
+`pip install animalib`
+to download and install the library from [PyPI](https://pypi.org/project/animalib/).
 
 ---
 
